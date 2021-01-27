@@ -51,6 +51,8 @@ Rodando projeto em modo de desenvolvimento:
 php artisan serve
 ```
 
+Acessando: http://localhost:8000
+
 ## Rodando testes
 
 ```
